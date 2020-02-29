@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5a74cc9b-f8fc-4911-94a7-9b3853e782e6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Selenium Testing" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YHuhzgMexhBeT4YOcgKQ0nGcbD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="TestNG.GenerateVideoRecording.test">
+    <configuration name="Assignment1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Day1.Assignment1" />
+      <module name="Selenium Testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Day1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Assertion.myTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium Testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Day1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.Day1" />
+      <option name="MAIN_CLASS_NAME" value="com.Day1.Assertion" />
+      <option name="METHOD_NAME" value="myTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenerateVideoRecording" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium Testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Day2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.Day2" />
+      <option name="MAIN_CLASS_NAME" value="com.Day2.GenerateVideoRecording" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenerateVideoRecording.test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium Testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Day2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.Day2" />
+      <option name="MAIN_CLASS_NAME" value="com.Day2.GenerateVideoRecording" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestNGAnnotations (2)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium Testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Day1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.Day1" />
+      <option name="MAIN_CLASS_NAME" value="com.Day1.TestNGAnnotations" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestNGAnnotations" type="TestNG">
+      <module name="Selenium Testing" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.Day1" />
+      <option name="MAIN_CLASS_NAME" value="com.Day1.TestNGAnnotations" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestNGAnnotations" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium Testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Day1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.Day1" />
+      <option name="MAIN_CLASS_NAME" value="com.Day1.TestNGAnnotations" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestNGAnnotations" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium Testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Day1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.Day1" />
+      <option name="MAIN_CLASS_NAME" value="com.Day1.TestNGAnnotations" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Assignment1" />
+      <item itemvalue="TestNG.TestNGAnnotations" />
+      <item itemvalue="TestNG.TestNGAnnotations (2)" />
+      <item itemvalue="TestNG.Assertion.myTest" />
+      <item itemvalue="TestNG.GenerateVideoRecording" />
+      <item itemvalue="TestNG.GenerateVideoRecording.test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.GenerateVideoRecording.test" />
+        <item itemvalue="TestNG.GenerateVideoRecording" />
+        <item itemvalue="TestNG.Assertion.myTest" />
+        <item itemvalue="Application.Assignment1" />
+        <item itemvalue="TestNG.TestNGAnnotations (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a74cc9b-f8fc-4911-94a7-9b3853e782e6" name="Default Changelist" comment="" />
+      <created>1582611964387</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582611964387</updated>
+      <workItem from="1582611970707" duration="15973000" />
+      <workItem from="1582693913154" duration="565000" />
+      <workItem from="1582695511580" duration="2704000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="104" y="44" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582627278497">
+      <screen x="0" y="23" width="1280" height="715" />
+    </state>
+    <state x="104" y="44" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.715@0.23.1280.715" timestamp="1582627278497" />
+    <state x="377" y="174" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1582627215968">
+      <screen x="0" y="23" width="1280" height="715" />
+    </state>
+    <state x="377" y="174" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1280.715@0.23.1280.715" timestamp="1582627215968" />
+    <state x="476" y="289" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1582612992698">
+      <screen x="0" y="23" width="1280" height="715" />
+    </state>
+    <state x="476" y="289" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1280.715@0.23.1280.715" timestamp="1582612992698" />
+    <state x="402" y="92" key="DetectedRootsChooserDialog" timestamp="1582623104705">
+      <screen x="0" y="23" width="1280" height="715" />
+    </state>
+    <state x="402" y="92" key="DetectedRootsChooserDialog/0.23.1280.715@0.23.1280.715" timestamp="1582623104705" />
+    <state width="1238" height="164" key="GridCell.Tab.0.bottom" timestamp="1582694573687">
+      <screen x="0" y="23" width="1280" height="715" />
+    </state>
+    <state width="1238" height="164" key="GridCell.Tab.0.bottom/0.23.1280.715@0.23.1280.715" timestamp="1582694573687" />
+    <state width="1218" height="164" key="GridCell.Tab.0.bottom/0.23.1280.716@0.23.1280.716" timestamp="1582625230801" />
+    <state width="1218" height="164" key="GridCell.Tab.0.bottom/0.23.1280.721@0.23.1280.721" timestamp="1582615632735" />
+    <state width="1218" height="164" key="GridCell.Tab.0.bottom/0.23.1280.723@0.23.1280.723" timestamp="1582615683506" />
+    <state width="1218" height="164" key="GridCell.Tab.0.bottom/0.23.1280.724@0.23.1280.724" timestamp="1582616262121" />
+    <state width="1218" height="164" key="GridCell.Tab.0.bottom/0.23.1280.726@0.23.1280.726" timestamp="1582616353675" />
+    <state width="1238" height="164" key="GridCell.Tab.0.center" timestamp="1582694573686">
+      <screen x="0" y="23" width="1280" height="715" />
+    </state>
+    <state width="1238" height="164" key="GridCell.Tab.0.center/0.23.1280.715@0.23.1280.715" timestamp="1582694573686" />
+    <state width="1218" height="164" key="GridCell.Tab.0.center/0.23.1280.716@0.23.1280.716" timestamp="1582625230799" />
+    <state width="1218" height="164" key="GridCell.Tab.0.center/0.23.1280.721@0.23.1280.721" timestamp="1582615632734" />
+    <state width="1218" height="164" key="GridCell.Tab.0.center/0.23.1280.723@0.23.1280.723" timestamp="1582615683504" />
+    <state width="1218" height="164" key="GridCell.Tab.0.center/0.23.1280.724@0.23.1280.724" timestamp="1582616262120" />
+    <state width="1218" height="164" key="GridCell.Tab.0.center/0.23.1280.726@0.23.1280.726" timestamp="1582616353674" />
+    <state width="1238" height="164" key="GridCell.Tab.0.left" timestamp="1582694573686">
+      <screen x="0" y="23" width="1280" height="715" />
+    </state>
+    <state width="1238" height="164" key="GridCell.Tab.0.left/0.23.1280.715@0.23.1280.715" timestamp="1582694573686" />
+    <state width="1218" height="164" key="GridCell.Tab.0.left/0.23.1280.716@0.23.1280.716" timestamp="1582625230798" />
+    <state width="1218" height="164" key="GridCell.Tab.0.left/0.23.1280.721@0.23.1280.721" timestamp="1582615632734" />
+    <state width="1218" height="164" key="GridCell.Tab.0.left/0.23.1280.723@0.23.1280.723" timestamp="1582615683504" />
+    <state width="1218" height="164" key="GridCell.Tab.0.left/0.23.1280.724@0.23.1280.724" timestamp="1582616262120" />
+    <state width="1218" height="164" key="GridCell.Tab.0.left/0.23.1280.726@0.23.1280.726" timestamp="1582616353673" />
+    <state width="1238" height="164" key="GridCell.Tab.0.right" timestamp="1582694573687">
+      <screen x="0" y="23" width="1280" height="715" />
+    </state>
+    <state width="1238" height="164" key="GridCell.Tab.0.right/0.23.1280.715@0.23.1280.715" timestamp="1582694573687" />
+    <state width="1218" height="164" key="GridCell.Tab.0.right/0.23.1280.716@0.23.1280.716" timestamp="1582625230800" />
+    <state width="1218" height="164" key="GridCell.Tab.0.right/0.23.1280.721@0.23.1280.721" timestamp="1582615632735" />
+    <state width="1218" height="164" key="GridCell.Tab.0.right/0.23.1280.723@0.23.1280.723" timestamp="1582615683505" />
+    <state width="1218" height="164" key="GridCell.Tab.0.right/0.23.1280.724@0.23.1280.724" timestamp="1582616262121" />
+    <state width="1218" height="164" key="GridCell.Tab.0.right/0.23.1280.726@0.23.1280.726" timestamp="1582616353675" />
+    <state x="128" y="23" key="SettingsEditor" timestamp="1582693354365">
+      <screen x="0" y="23" width="1280" height="715" />
+    </state>
+    <state x="128" y="23" key="SettingsEditor/0.23.1280.715@0.23.1280.715" timestamp="1582693354365" />
+    <state x="310" y="215" key="com.intellij.ide.util.TipDialog" timestamp="1582693914658">
+      <screen x="0" y="23" width="1280" height="715" />
+    </state>
+    <state x="310" y="215" key="com.intellij.ide.util.TipDialog/0.23.1280.715@0.23.1280.715" timestamp="1582693914658" />
+    <state x="366" y="284" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1582627130001">
+      <screen x="0" y="23" width="1280" height="715" />
+    </state>
+    <state x="366" y="284" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.23.1280.715@0.23.1280.715" timestamp="1582627130001" />
+    <state x="317" y="27" width="645" height="708" key="find.popup" timestamp="1582624115854">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state x="317" y="27" width="645" height="708" key="find.popup/0.23.1280.723@0.23.1280.723" timestamp="1582624115854" />
+    <state x="69" y="23" key="new project wizard" timestamp="1582694565910">
+      <screen x="0" y="23" width="1280" height="715" />
+    </state>
+    <state x="69" y="23" key="new project wizard/0.23.1280.715@0.23.1280.715" timestamp="1582694565910" />
+    <state x="305" y="63" key="search.everywhere.popup" timestamp="1582628471236">
+      <screen x="0" y="23" width="1280" height="715" />
+    </state>
+    <state x="305" y="63" key="search.everywhere.popup/0.23.1280.715@0.23.1280.715" timestamp="1582628471236" />
+    <state x="305" y="63" key="search.everywhere.popup/0.23.1280.716@0.23.1280.716" timestamp="1582613927824" />
+  </component>
+</project>
